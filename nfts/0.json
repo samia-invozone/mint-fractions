@@ -1,0 +1,13 @@
+{
+    "name": "Arrow NFT",
+    "symbol": "AN",
+    "description": "Collection of 10 numbers on the blockchain. This is the number 1/10.",
+    "seller_fee_basis_points": 500,
+    "image": "0.png",
+    "attributes": [],
+    "properties": {
+        "creators": [{"address": "8UU6W5cobyifPjbe4aamckXNnhcBVqLaUxaGW2zSTtF8", "share": 100}],
+        "files": [{"uri": "0.png", "type": "image/png"}]
+    },
+    "collection": {"name": "fractional_mintcollection", "family": "fractional_mintcollection"}
+}

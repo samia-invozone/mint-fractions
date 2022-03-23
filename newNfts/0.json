@@ -1,0 +1,13 @@
+{
+    "name": "My NFT",
+    "symbol": "MN",
+    "description": "A master edition token, when minted, represents both a non-fungible token on Solana and metadata that allows creators to control the provenance of prints created from the master edition.",
+    "seller_fee_basis_points": 300,
+    "image": "0.png",
+    "attributes": [],
+    "properties": {
+        "creators": [{"address": "8UU6W5cobyifPjbe4aamckXNnhcBVqLaUxaGW2zSTtF8", "share": 100}],
+        "files": [{"uri": "0.png", "type": "image/png"}]
+    },
+    "collection": {"name": "new_mint_collection", "family": "new_mint_collection"}
+}
